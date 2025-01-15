@@ -1,1 +1,9 @@
 .DS_Store
+examples/components/*.c
+examples/components/*.h
+examples/example_gen.h
+examples/example_gen.c
+examples/example.h
+examples/example.c
+examples/ui.h
+examples/ui.c
